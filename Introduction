@@ -1,1 +1,19 @@
+------------------------------------------------------------------------------Saleaforce Admin-----------------------------------------------------------------------------------
+What is Salesforce?
+Salesforce is a customer success platform designed to help you sell, service, market, analyze, and connect with customers.
+Salesforce has everything you need to run your business from anywhere. Using standard products and features, you can manage relationships with prospects and customers, collaborate and engage with employees and partners, and store your data securely in the cloud.
 
+Concepts - 
+          1 . Data Modal -
+                          Objects , Fields , Records 
+          2. Data Security - 
+                          Oraganization level security - Login Hours , Session setting , Password Policies
+                          Object Level Security - Profiles and Permission Set 
+                          Field Level Security  - Profiles and Permission Set
+                          Record Level Security - Four way to achieve record Level Security - OWD , Role Hierarchiey , Sharing Rule , Manual Sharing
+        
+          3 . UI Customization - PageLayout , Record Types Mini Layout , Highlight Panel, List View , Quick Action , Global Action,Tabs
+          4 . Automation tools - Workflow Rules , Approval Process , FLows 
+          5 . Data Migration -  Data Import Wizard , Data Loader , Developer Workbench 
+          6 . Reports and DashBoard - Types of reports , Bucket Field , Conditional Highlighting 
+          7 . Relationship - Master-detail , Lookup relationship , Hierarchical relationship ,Many to Many (Junction Object)
